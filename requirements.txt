@@ -1,0 +1,5 @@
+# Core simulation uses standard library dataclasses, math, and json.
+# Optional data analysis and export packages:
+# pandas>=2.0.0
+# openpyxl>=3.1.0
+# matplotlib>=3.8.0
